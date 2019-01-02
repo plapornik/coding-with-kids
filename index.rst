@@ -17,6 +17,7 @@ Throughout your journey you will both likely learn new ``concepts`` and ``terms`
 
 This is a test
 
+
 .. toctree::
    :maxdepth: 2
    :hidden:
