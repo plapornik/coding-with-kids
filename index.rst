@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Coding with Kids's
+Welcome to Coding with Kids
 =============================
 Coding with kids can be a *great* way to not only teach them some skills that will help them with their own lives, but also *create or strengthen* some lasting **bonds between you and them.**
 
