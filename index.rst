@@ -19,6 +19,8 @@ This is a test
 
 Change from Antonios
 
+*TestItalics*
+
 .. toctree::
    :maxdepth: 2
    :hidden:
