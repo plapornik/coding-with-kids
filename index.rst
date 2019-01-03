@@ -64,6 +64,10 @@ thisis\ **one**\word
 .. danger::
   Especially if *mummy* **farts**
 
+these are admonitions.
+
+----
+
 .. epigraph::
 
    No matter where you go, there you are.
@@ -105,6 +109,7 @@ E = mc\ :sup:`2`
    Options/justcode
    Options/justhardware
    Options/hardwareandcode
+   Options/moreexperiments
 
 .. toctree::
    :maxdepth: 2
