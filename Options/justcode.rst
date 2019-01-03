@@ -34,3 +34,14 @@ The wannacookie code:
         return $c -replace ' '
     }
 
+
+.. code-block:: c++
+
+    #include<iostream>
+    using namespace std;
+    int main(){
+        int a,b;
+        cin>>a>>b;
+        cout<<a+b;
+        return 0;
+    }

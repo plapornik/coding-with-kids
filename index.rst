@@ -5,6 +5,8 @@
 
 Welcome to Coding with Kids
 =============================
+Subheading here
+---------------
 Coding with kids can be a *great* way to not only teach them some skills that will help them with their own lives, but also *create or strengthen* some lasting **bonds between you and them.**
 
 Throughout your journey you will both likely learn new ``concepts`` and ``terms`` that will expand your horizons and provide hours of enjoyment.
@@ -18,8 +20,51 @@ Throughout your journey you will both likely learn new ``concepts`` and ``terms`
 This is a test
 
 Change from Antonios
+--------------------
 
 *TestItalics*
+
+**TestBold**
+
+``use key next to 1 for these instead of " or ''``
+
+thisis\ **one**\word
+
+.. csv-table:: Comparison
+  :header: Name,Is the best?
+
+  Antonios,Maybe
+  Peter,Maybe
+
+
+.. caution::
+  The Toilet may explode
+
+.. attention::
+  123
+
+.. warning::
+  123
+
+.. note::
+  Keep as far away as you can!
+
+.. hint::
+  Talk to Santa
+
+.. tip::
+  123
+
+.. important::
+  123
+
+.. error::
+  123
+
+.. danger::
+  Especially if *mummy* **farts**
+
+
 
 .. toctree::
    :maxdepth: 2
