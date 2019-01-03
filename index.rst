@@ -64,6 +64,36 @@ thisis\ **one**\word
 .. danger::
   Especially if *mummy* **farts**
 
+.. epigraph::
+
+   No matter where you go, there you are.
+
+   -- Buckaroo Banzai
+
+.. pull-quote::
+   "No matter where you go, there you are."
+
+   -- Buckaroo Banzai
+
+
+| Antonios
+| Peter
+
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
+.. [#f2] Text of the second footnote.
+
+
+Lorem ipsum [Ref]_ dolor sit amet.
+
+.. [Ref] Book or article reference, URL or whatever.
+
+H\ :sub:`2`\ O
+
+E = mc\ :sup:`2`
 
 
 .. toctree::
